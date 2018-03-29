@@ -1,0 +1,4 @@
+.cache/
+.geonames-username
+.github-api-token
+.ipynb_checkpoints/
