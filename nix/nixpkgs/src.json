@@ -1,7 +1,7 @@
 {
-  "owner": "nmattia",
-  "repo": "nixpkgs",
-  "branch": "master",
-  "rev": "02359c639193103812f7356564326556cbb41ca4",
-  "sha256": "1rg0czkxqynycw23v0dmk0vd2v17d6v3yr06bg23wqwpm3b5z0nd"
+  "owner": "NixOS",
+  "repo": "nixpkgs-channels",
+  "branch": "nixos-18.03",
+  "rev": "aec217852f228fd6f923c0d32b94d78dee4ae5dc",
+  "sha256": "1nj6wdg9yi27bmlg2xqa3mlm0zncw0v62b8a13ydrw6vg1a2h5dl"
 }
